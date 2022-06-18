@@ -1,0 +1,15 @@
+PROCESS-NAME,code.exe
+PROCESS-NAME,telegram.exe
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,zhai.dev
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twing.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,taggood-5.xyz
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-KEYWORD,google

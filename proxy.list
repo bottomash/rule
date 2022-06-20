@@ -1,6 +1,9 @@
 PROCESS-NAME,code.exe
 PROCESS-NAME,telegram.exe
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,inoreader.com

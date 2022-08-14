@@ -23,3 +23,11 @@ Rule: ~
 [Mitm]
 
 {% endif %}
+
+{% if request.target == "quanx" %}
+
+[General]
+
+[Mitm]
+
+{% endif %}

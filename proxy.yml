@@ -1,12 +1,16 @@
 payload:
+  - DOMAIN-SUFFIX,infuse.im
+  - PROCESS-NAME,Telegram.exe
   - DOMAIN-SUFFIX,ifttt.com
   - DOMAIN-SUFFIX,getmatter.app
+  - DOMAIN-SUFFIX,image.tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,trakt.tv
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,zhai.dev
   - DOMAIN-SUFFIX,zhai.day  

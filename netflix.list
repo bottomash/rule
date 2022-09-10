@@ -1,6 +1,4 @@
 ## > Netflix
-PROCESS-NAME,com.netflix.mediaclient
-USER-AGENT,Argo*
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com

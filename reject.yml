@@ -1,0 +1,7 @@
+payload:
+# 贴吧屏蔽域名dns查询
+  - IP-CIDR,180.76.76.200/32
+# 贴吧屏蔽ws(副作用:消息通知功能失效,需手动进入查看),强制帖子接口走http
+  - DOMAIN,im.tieba.baidu.com
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
+  - DOMAIN,grpc.biliapi.net

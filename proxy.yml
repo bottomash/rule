@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,zhai.dev
+  - DOMAIN-SUFFIX,zhai.day  
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twing.com
   - DOMAIN-SUFFIX,github.com
@@ -17,3 +18,8 @@ payload:
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,mover.io
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,webservice.fanart.tv
+  - DOMAIN-SUFFIX,heroku.com
+

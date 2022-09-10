@@ -1,3 +1,4 @@
+payload:
   - DOMAIN-SUFFIX,getmatter.app
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,trakt.tv

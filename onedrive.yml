@@ -1,6 +1,10 @@
 payload:
+  - PROCESS-NAME,OneDrive.exe
   - DOMAIN-SUFFIX,1drv.com
-  - DOMAIN-SUFFIX,onedrive.com   
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,graph.microsoft.com
+  - DOMAIN-SUFFIX,login.microsoftonline.com
+  - DOMAIN-SUFFIX,1lbot-my.sharepoint.com   
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,skydrive.wns.windows.com
   - DOMAIN-SUFFIX,4v59ba.dm.files.1drv.com

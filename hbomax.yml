@@ -1,7 +1,6 @@
-payload: 
-  - DOMAIN-SUFFIX,hbo.com
-  - DOMAIN-SUFFIX,hbonow.com
-  - DOMAIN-SUFFIX,hbomax.com
-  - DOMAIN-SUFFIX,hbomaxcdn.com
-  - DOMAIN-SUFFIX,wmff.warnermediacdn.com
-  - DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com

@@ -6,6 +6,7 @@ on:   # 配置触发workflow的事件
     branches:   # master分支有push时触发此workflow
       - 'main'
       - 'docker-build&push'
+      - 'latest'
     tags:       # tag更新时触发此workflow
       - '*'
 

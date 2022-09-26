@@ -31,7 +31,7 @@ jobs:  # workflow中的job
         with:
           images: bottomash/subconverter
           tags: |
-          name=latest,enable=ture
+          type=ref,event=branch
           type=schedule,pattern={{date 'YYYYMMDD'}}
       - name: Build and push Docker image
         uses: docker/build-push-action@v2 # docker build & push

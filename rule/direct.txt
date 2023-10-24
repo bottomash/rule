@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jvod.300hu.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,cn.archive.ubuntu.com

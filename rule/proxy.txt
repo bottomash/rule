@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,zhai.dev
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
-DOMIAN-SUFFIX,nastool.org
 
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube

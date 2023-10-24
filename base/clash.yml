@@ -1,0 +1,24 @@
+external-controller: "0.0.0.0:9999"
+mixed-port: 7890
+dns:
+  enable: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 28.0.0.0/8
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - https://doh.pub/dns-query
+tun:
+  enable: false
+  stack: gvisor
+  dns-hijack:
+  - 0.0.0.0:53
+  auto-route: true
+  auto-detect-interface: true
+script:
+  shortcuts:
+    quic: network == 'udp' and dst_port == 443
+    tailscale: network == 'udp' and dst_port == 12345
+    douyushit: (network == 'udp' or 'p2p' in host) and 'douyu' in host          
+    bilibilishit: any([word in host for word in ['biliapi', 'bilibili', 'bilivideo']]) and any([word in host for word in ['-live-tracker-', 'p2p', 'pcdn', 'mcdn']])

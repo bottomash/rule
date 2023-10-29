@@ -3,16 +3,16 @@ PROCESS-NAME,Telegram.exe
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,fanart.tv
-DOMAIN-SUFFIX,zhai.dev
 DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,infuse.im
+DOMAIN-SUFFIX,typora.io
 
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube

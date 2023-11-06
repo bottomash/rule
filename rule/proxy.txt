@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,infuse.im
 DOMAIN-SUFFIX,typora.io
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,agilebits.com
 
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube

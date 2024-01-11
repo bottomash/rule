@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,cn.archive.ubuntu.com
 DOMAIN-SUFFIX,maimemo.com
+DOMAIN-SUFFIX,t.audiences.me
+DOMAIN-SUFFIX,tracker.cinefiles.info

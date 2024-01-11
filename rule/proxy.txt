@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,vercel.app
 
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube

@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,vercel.app
-
+DOMAIN-SUFFIX,tiktok.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,github

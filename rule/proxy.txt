@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,github

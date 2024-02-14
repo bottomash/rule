@@ -3478,10 +3478,6 @@ DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,vwanjia.com
 ## > iQIYI (爱奇艺)
 PROCESS-NAME,com.qiyi.video
-USER-AGENT,iQiYi*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
-USER-AGENT,QYPlayer*
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,71edge.com
@@ -6895,11 +6891,6 @@ DOMAIN-SUFFIX,xiaohu8.com
 DOMAIN-SUFFIX,zhijianfengyi.cn
 DOMAIN-SUFFIX,zhijianfengyi.com
 ## > 腾讯
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 DOMAIN-SUFFIX,1700.cn
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,700chat.com
@@ -9230,22 +9221,6 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,zijiecdn.com
 DOMAIN-SUFFIX,zijiecdn.net
 DOMAIN-SUFFIX,zjcdn.com
-## >> TikTok
-USER-AGENT,TikTok*
-PROCESS-NAME,com.zhiliaoapp.musically
-DOMAIN-KEYWORD,-tiktokcdn-com
-DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
 ## >> 抖音火山版
 DOMAIN-SUFFIX,huoshan.com
 DOMAIN-SUFFIX,huoshanstatic.com

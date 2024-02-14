@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,tiktok.com
+
 ## 🍖 PROXY
 ## > 9 NEWS
 DOMAIN-SUFFIX,9cdn.net

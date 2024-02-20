@@ -1,5 +1,19 @@
 PROCESS-NAME,Telegram.exe
 
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,1password
+DOMAIN-KEYWORD,instrgram
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,telegram
+
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,twimg.com
@@ -17191,13 +17205,3 @@ DOMAIN-SUFFIX,zyns.com
 DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
-
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,1password
-DOMAIN-KEYWORD,instrgram
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,telegram

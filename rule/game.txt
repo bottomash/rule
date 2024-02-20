@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,battlenet.com.cn
 DOMAIN-SUFFIX,blizzard.nefficient.co.kr
 DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
 DOMAIN-SUFFIX,bnet.163.com
-DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+DOMAIN-SUFFIX,bndetcmsus-a.akamaihd.net
 DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
 DOMAIN-SUFFIX,bnetshopus.akamaized.net
 ## >> Diablo

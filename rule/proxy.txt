@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,telegram
 
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,bing.com

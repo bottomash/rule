@@ -2,6 +2,7 @@ PROCESS-NAME,wegame.exe
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,LeagueClient.exe
 PROCESS-NAME,bilibili.exe
+PROCESS-NAME,QQ.exe
 
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,hdslb.com
@@ -24,6 +25,7 @@ DOMAIN-SUFFIX,t.audiences.me
 DOMAIN-SUFFIX,tracker.cinefiles.info
 DOMAIN-SUFFIX,yacd.haishan.me
 DOMAIN-SUFFIX,yacd.metacubex.one
+DOMAIN-SUFFIX,zhaicn.org
 
 IP-CIDR,10.0.0.0/8
 IP-CIDR,127.0.0.0/8

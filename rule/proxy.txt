@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,zhai.dev
 
 ## 🍖 PROXY
 ## > 9 NEWS

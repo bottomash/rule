@@ -1,5 +1,0 @@
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net

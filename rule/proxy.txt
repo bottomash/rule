@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,infuse.im
 DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,agilebits.com
-DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,tiktok.com

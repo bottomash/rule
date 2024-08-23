@@ -1,4 +1,7 @@
 GEOIP,LAN
+GEOIP,CN
+
+DOMAIN-KEYWORD,douyin
 
 PROCESS-NAME,wegame.exe
 PROCESS-NAME,qbittorrent.exe

@@ -16,9 +16,3 @@ tun:
   - 0.0.0.0:53
   auto-route: true
   auto-detect-interface: true
-script:
-  shortcuts:
-    quic: network == 'udp' and dst_port == 443
-    tailscale: network == 'udp' and dst_port == 12345
-    douyushit: (network == 'udp' or 'p2p' in host) and 'douyu' in host          
-    bilibilishit: any([word in host for word in ['biliapi', 'bilibili', 'bilivideo']]) and any([word in host for word in ['-live-tracker-', 'p2p', 'pcdn', 'mcdn']])

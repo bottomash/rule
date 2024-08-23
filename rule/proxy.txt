@@ -1,3 +1,6 @@
+GEOIP,google
+GEOIP,telegram
+
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,github

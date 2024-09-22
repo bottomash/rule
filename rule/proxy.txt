@@ -11,9 +11,8 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,telegram
 
-DOMAIN,sub.zhai.dev
-DOMAIN,rss.zhai.dev
-
+DOMAIN-SUFFIX,sub.zhai.dev
+DOMAIN-SUFFIX,rss.zhai.dev
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com

@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,instrgram
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,dropbox
 
 DOMAIN-SUFFIX,sub.zhai.dev
 DOMAIN-SUFFIX,rss.zhai.dev

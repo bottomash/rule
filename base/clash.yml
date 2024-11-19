@@ -1,18 +1,17 @@
-external-controller: "0.0.0.0:9999"
+mode: rule
+ipv6: false
+allow-lan: true
 mixed-port: 7890
+find-process-mode: always
+external-controller: 0.0.0.0:8899
+secret: love
 dns:
   enable: true
+  listen: 0.0.0.0:1053
   enhanced-mode: fake-ip
-  fake-ip-range: 28.0.0.0/8
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - localhost.ptlogin2.qq.com
   nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-  fallback:
     - https://doh.pub/dns-query
-tun:
-  enable: false
-  stack: gvisor
-  dns-hijack:
-  - 0.0.0.0:53
-  auto-route: true
-  auto-detect-interface: true

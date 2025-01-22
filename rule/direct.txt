@@ -21,4 +21,6 @@ DOMAIN-SUFFIX,maimemo.com
 DOMAIN-SUFFIX,yacd.haishan.me
 DOMAIN-SUFFIX,yacd.metacubex.one
 DOMAIN-SUFFIX,cnki.net
-
+DOMAIN-SUFFIX,mp.zhai.dev
+DOMAIN-SUFFIX,qb.zhai.dev
+DOMAIN-SUFFIX,emby.zhai.dev

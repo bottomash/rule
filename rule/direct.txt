@@ -1,8 +1,8 @@
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,steam.exe
 
-IP-CIDR,10.0.0.0/8
 IP-CIDR,9.9.9.9/8
+IP-CIDR,10.0.0.0/8
 
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,t.audiences.me
@@ -23,5 +23,8 @@ DOMAIN-SUFFIX,yacd.metacubex.one
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,mp.zhai.dev
 DOMAIN-SUFFIX,qb.zhai.dev
+DOMAIN-SUFFIX,302.zhai.dev
+DOMAIN-SUFFIX,cd2.zhai.dev
+DOMAIN-SUFFIX,cms.zhai.dev
 DOMAIN-SUFFIX,emby.zhai.dev
 DOMAIN-SUFFIX,mihomo.zhai.dev
